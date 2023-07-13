@@ -3,7 +3,7 @@ const app = express()
 
 app.get('/', (req,res)=>{
     res.json({
-        msg: 'hello mother fucker'
+        msg: 'hello mother fucker ss'
     })
 })
 
